@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Surya1087/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Surya1087/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Surya1087/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Surya1087/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Surya1087/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Surya1087/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Surya1087/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Surya1087/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Surya1087/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Surya1087/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Surya1087/Leetcode/tree/master/0079-word-search) |
 | [2047-find-a-peak-element-ii](https://github.com/Surya1087/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## String
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Surya1087/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Surya1087/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Surya1087/Leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Surya1087/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Surya1087/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Surya1087/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Surya1087/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -276,8 +279,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Surya1087/Leetcode/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/Surya1087/Leetcode/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/Surya1087/Leetcode/tree/master/0079-word-search) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Surya1087/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Surya1087/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
