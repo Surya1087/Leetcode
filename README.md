@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Surya1087/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2047-find-a-peak-element-ii](https://github.com/Surya1087/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Surya1087/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Surya1087/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Surya1087/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Surya1087/Leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Surya1087/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 ## Stack
 |  |
 | ------- |
