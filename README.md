@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Surya1087/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Surya1087/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Surya1087/Leetcode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Surya1087/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Surya1087/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Surya1087/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Surya1087/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Surya1087/Leetcode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Surya1087/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Surya1087/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0541-reverse-string-ii](https://github.com/Surya1087/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Surya1087/Leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Surya1087/Leetcode/tree/master/0812-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Surya1087/Leetcode/tree/master/1021-remove-outermost-parentheses) |
