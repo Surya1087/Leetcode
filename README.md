@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Surya1087/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Surya1087/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [3692-majority-frequency-characters](https://github.com/Surya1087/Leetcode/tree/master/3692-majority-frequency-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Surya1087/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Surya1087/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [3692-majority-frequency-characters](https://github.com/Surya1087/Leetcode/tree/master/3692-majority-frequency-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Surya1087/Leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Surya1087/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
+| [3692-majority-frequency-characters](https://github.com/Surya1087/Leetcode/tree/master/3692-majority-frequency-characters) |
 ## Stack
 |  |
 | ------- |
