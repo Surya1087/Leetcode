@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Surya1087/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Surya1087/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Surya1087/Leetcode/tree/master/0792-binary-search) |
+| [0888-fair-candy-swap](https://github.com/Surya1087/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0907-koko-eating-bananas](https://github.com/Surya1087/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Surya1087/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Surya1087/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Surya1087/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Surya1087/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0888-fair-candy-swap](https://github.com/Surya1087/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Surya1087/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Surya1087/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Surya1087/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Surya1087/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Surya1087/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0888-fair-candy-swap](https://github.com/Surya1087/Leetcode/tree/master/0888-fair-candy-swap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Surya1087/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Surya1087/Leetcode/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/Surya1087/Leetcode/tree/master/0792-binary-search) |
+| [0888-fair-candy-swap](https://github.com/Surya1087/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0907-koko-eating-bananas](https://github.com/Surya1087/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Surya1087/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Surya1087/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
