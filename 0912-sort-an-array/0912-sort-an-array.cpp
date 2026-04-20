@@ -3,7 +3,6 @@ public:
     vector<int> sortArray(vector<int>& nums) {
         vector<int> counting(2 * 50000 + 1, 0);
         for (int num : nums) {
-            // we add 5 * 10^4 because for smallest possible element -5 * 10^4 index must be 0
             counting[num + 50000]++;
         }
         int write_ind = 0;
