@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Surya1087/Leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Surya1087/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Surya1087/Leetcode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Surya1087/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Surya1087/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Surya1087/Leetcode/tree/master/0792-binary-search) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Surya1087/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Surya1087/Leetcode/tree/master/0198-house-robber) |
 | [0474-ones-and-zeroes](https://github.com/Surya1087/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Surya1087/Leetcode/tree/master/0494-target-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Surya1087/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Surya1087/Leetcode/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Surya1087/Leetcode/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/Surya1087/Leetcode/tree/master/0494-target-sum) |
 ## Number Theory
 |  |
 | ------- |
