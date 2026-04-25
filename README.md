@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Surya1087/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Surya1087/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Surya1087/Leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Surya1087/Leetcode/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Surya1087/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Surya1087/Leetcode/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/Surya1087/Leetcode/tree/master/0415-add-strings) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Surya1087/Leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Surya1087/Leetcode/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/Surya1087/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Surya1087/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Backtracking
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Surya1087/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Surya1087/Leetcode/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Surya1087/Leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Surya1087/Leetcode/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/Surya1087/Leetcode/tree/master/0494-target-sum) |
 ## Number Theory
 |  |
