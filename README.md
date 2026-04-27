@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Surya1087/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Surya1087/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Surya1087/Leetcode/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/Surya1087/Leetcode/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/Surya1087/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Surya1087/Leetcode/tree/master/0494-target-sum) |
 ## Simulation
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Surya1087/Leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Surya1087/Leetcode/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/Surya1087/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/Surya1087/Leetcode/tree/master/0338-counting-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Surya1087/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Backtracking
 |  |
