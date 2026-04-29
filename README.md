@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Surya1087/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Surya1087/Leetcode/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/Surya1087/Leetcode/tree/master/0415-add-strings) |
+| [0593-valid-square](https://github.com/Surya1087/Leetcode/tree/master/0593-valid-square) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Surya1087/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Surya1087/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Surya1087/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -429,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Surya1087/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/Surya1087/Leetcode/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
