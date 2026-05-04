@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Surya1087/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Surya1087/Leetcode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Surya1087/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Surya1087/Leetcode/tree/master/0561-array-partition) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Surya1087/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Surya1087/Leetcode/tree/master/0792-binary-search) |
 | [0888-fair-candy-swap](https://github.com/Surya1087/Leetcode/tree/master/0888-fair-candy-swap) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Surya1087/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Surya1087/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Surya1087/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/Surya1087/Leetcode/tree/master/0561-array-partition) |
 | [0761-special-binary-string](https://github.com/Surya1087/Leetcode/tree/master/0761-special-binary-string) |
 | [0888-fair-candy-swap](https://github.com/Surya1087/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/Surya1087/Leetcode/tree/master/0912-sort-an-array) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Surya1087/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Surya1087/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/Surya1087/Leetcode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Surya1087/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Surya1087/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Surya1087/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Surya1087/Leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Surya1087/Leetcode/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/Surya1087/Leetcode/tree/master/1122-relative-sort-array) |
 ## Quickselect
