@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Surya1087/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Surya1087/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Surya1087/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Surya1087/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Surya1087/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Surya1087/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Surya1087/Leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Surya1087/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Surya1087/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Surya1087/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Surya1087/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Surya1087/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Surya1087/Leetcode/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/Surya1087/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Surya1087/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
