@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Surya1087/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2047-find-a-peak-element-ii](https://github.com/Surya1087/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Surya1087/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Surya1087/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Surya1087/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Surya1087/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Surya1087/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Surya1087/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3692-majority-frequency-characters](https://github.com/Surya1087/Leetcode/tree/master/3692-majority-frequency-characters) |
 ## Two Pointers
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Surya1087/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Surya1087/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Surya1087/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Surya1087/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Surya1087/Leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Surya1087/Leetcode/tree/master/1046-last-stone-weight) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Surya1087/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Bucket Sort
 |  |
 | ------- |
