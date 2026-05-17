@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Surya1087/Leetcode/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Surya1087/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1122-relative-sort-array](https://github.com/Surya1087/Leetcode/tree/master/1122-relative-sort-array) |
+| [1306-jump-game-iii](https://github.com/Surya1087/Leetcode/tree/master/1306-jump-game-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Surya1087/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Surya1087/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Surya1087/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Surya1087/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Surya1087/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1306-jump-game-iii](https://github.com/Surya1087/Leetcode/tree/master/1306-jump-game-iii) |
 ## Tree
 |  |
 | ------- |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Surya1087/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1306-jump-game-iii](https://github.com/Surya1087/Leetcode/tree/master/1306-jump-game-iii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Surya1087/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Search Tree
 |  |
