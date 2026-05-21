@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Surya1087/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Surya1087/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Surya1087/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Surya1087/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Surya1087/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/Surya1087/Leetcode/tree/master/3660-jump-game-ix) |
 ## Hash Table
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Surya1087/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2784-check-if-array-is-good](https://github.com/Surya1087/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Surya1087/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Surya1087/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3692-majority-frequency-characters](https://github.com/Surya1087/Leetcode/tree/master/3692-majority-frequency-characters) |
 ## Two Pointers
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Surya1087/Leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Surya1087/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Surya1087/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3692-majority-frequency-characters](https://github.com/Surya1087/Leetcode/tree/master/3692-majority-frequency-characters) |
 ## Stack
 |  |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Surya1087/Leetcode/tree/master/0014-longest-common-prefix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Surya1087/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
 |  |
 | ------- |
