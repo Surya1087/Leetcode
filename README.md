@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Surya1087/Leetcode/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Surya1087/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1340-jump-game-v](https://github.com/Surya1087/Leetcode/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/Surya1087/Leetcode/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Surya1087/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/Surya1087/Leetcode/tree/master/3660-jump-game-ix) |
 ## Simulation
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Surya1087/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Surya1087/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1871-jump-game-vii](https://github.com/Surya1087/Leetcode/tree/master/1871-jump-game-vii) |
 ## Binary Search
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Surya1087/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Surya1087/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Surya1087/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1871-jump-game-vii](https://github.com/Surya1087/Leetcode/tree/master/1871-jump-game-vii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Surya1087/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Surya1087/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Surya1087/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Surya1087/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Surya1087/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Surya1087/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1871-jump-game-vii](https://github.com/Surya1087/Leetcode/tree/master/1871-jump-game-vii) |
 ## Bit Manipulation
 |  |
 | ------- |
