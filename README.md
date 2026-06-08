@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Surya1087/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2126-destroying-asteroids](https://github.com/Surya1087/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Surya1087/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Surya1087/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Surya1087/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Surya1087/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Surya1087/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Surya1087/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Surya1087/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Surya1087/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Surya1087/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Surya1087/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Surya1087/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Surya1087/Leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Surya1087/Leetcode/tree/master/0415-add-strings) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Surya1087/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Surya1087/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3925-concatenate-array-with-reverse](https://github.com/Surya1087/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Union Find
