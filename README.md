@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Surya1087/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Surya1087/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Surya1087/Leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Surya1087/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Surya1087/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Surya1087/Leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Surya1087/Leetcode/tree/master/0079-word-search) |
