@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Surya1087/Leetcode/tree/master/0415-add-strings) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Surya1087/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Surya1087/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Surya1087/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Surya1087/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Union Find
 |  |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/Surya1087/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Surya1087/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Surya1087/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Surya1087/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3692-majority-frequency-characters](https://github.com/Surya1087/Leetcode/tree/master/3692-majority-frequency-characters) |
 ## Stack
 |  |
