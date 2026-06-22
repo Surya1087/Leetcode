@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Surya1087/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Surya1087/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/Surya1087/Leetcode/tree/master/1122-relative-sort-array) |
+| [1189-maximum-number-of-balloons](https://github.com/Surya1087/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Surya1087/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Surya1087/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Surya1087/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Surya1087/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Surya1087/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/Surya1087/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Surya1087/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3692-majority-frequency-characters](https://github.com/Surya1087/Leetcode/tree/master/3692-majority-frequency-characters) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Surya1087/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Surya1087/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/Surya1087/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/Surya1087/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Surya1087/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Surya1087/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1871-jump-game-vii](https://github.com/Surya1087/Leetcode/tree/master/1871-jump-game-vii) |
