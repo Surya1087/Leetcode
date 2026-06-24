@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Surya1087/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Surya1087/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Surya1087/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Surya1087/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Surya1087/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Surya1087/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Surya1087/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Surya1087/Leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Surya1087/Leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Surya1087/Leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Surya1087/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Surya1087/Leetcode/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Surya1087/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Surya1087/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Surya1087/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Surya1087/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Surya1087/Leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Surya1087/Leetcode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Surya1087/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/Surya1087/Leetcode/tree/master/0468-validate-ip-address) |
