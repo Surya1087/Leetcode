@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Surya1087/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Surya1087/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/Surya1087/Leetcode/tree/master/3161-block-placement-queries) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Surya1087/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Surya1087/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Surya1087/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Surya1087/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Surya1087/Leetcode/tree/master/0079-word-search) |
 | [2047-find-a-peak-element-ii](https://github.com/Surya1087/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Surya1087/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Surya1087/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String
 |  |
 | ------- |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Surya1087/Leetcode/tree/master/1046-last-stone-weight) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Surya1087/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Surya1087/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Surya1087/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Surya1087/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1306-jump-game-iii](https://github.com/Surya1087/Leetcode/tree/master/1306-jump-game-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Surya1087/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Surya1087/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Surya1087/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Search Tree
 |  |
@@ -610,4 +614,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/Surya1087/Leetcode/tree/master/3161-block-placement-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Surya1087/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Surya1087/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Surya1087/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Surya1087/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
