@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Surya1087/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2126-destroying-asteroids](https://github.com/Surya1087/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/Surya1087/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3536-maximum-product-of-two-digits](https://github.com/Surya1087/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Surya1087/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Surya1087/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Surya1087/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Surya1087/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Surya1087/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/Surya1087/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Surya1087/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Surya1087/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Greedy
