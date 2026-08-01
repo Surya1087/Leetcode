@@ -10,7 +10,7 @@ public:
         return max(takeLeft, takeRight);
     }
 
-    bool predictTheWinner(vector<int>& nums) {   // lowercase p
+    bool predictTheWinner(vector<int>& nums) {   
         return solve(nums, 0, nums.size() - 1) >= 0;
     }
 };
