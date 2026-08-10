@@ -1,44 +1,35 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        vector<int> listVals;
-        while (head) {
-            listVals.push_back(head->val);
-            head = head->next;
+        if (!head || !head->next) return true;
+
+        ListNode *slow = head, *fast = head;
+
+        // finding middle of LL
+        while (fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        
-        int left = 0, right = listVals.size() - 1;
-        while (left < right && listVals[left] == listVals[right]) {
-            left++;
-            right--;
+
+        // reverse the second half of LL
+        ListNode* prev = NULL;
+        while (slow) {
+            ListNode* next = slow->next;
+            slow->next = prev;
+            prev = slow;
+            slow = next;
         }
-        return left >= right;
+
+        // comparing 
+        ListNode* left = head;
+        ListNode* right = prev;
+
+        while (right) {
+            if (left->val != right->val) return false;
+            left = left->next;
+            right = right->next;
+        }
+
+        return true;
     }
 };
-/*class Solution {
-public:
-    bool isPalindrome(ListNode* head) {
-        stack<int> stack;
-        ListNode* curr = head;
-        while (curr) {
-            stack.push(curr->val);
-            curr = curr->next;
-        }
-        curr = head;
-        while (curr && curr->val == stack.top()) {
-            stack.pop();
-            curr = curr->next;
-        }
-        return curr == nullptr;
-    }
-};*/
