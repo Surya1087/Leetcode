@@ -9,42 +9,30 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        unordered_set<ListNode*> seen;
-
-        while (head) {
-            if (seen.find(head) != seen.end()) {
-                return head;
-            }
-            seen.insert(head);
-            head = head->next;
+        if(head==NULL){
+            return NULL;
         }
-
-        return nullptr;
-    }
-};
-/*
-class Solution {
-public:
-    ListNode *detectCycle(ListNode *head) {
         ListNode* slow = head;
         ListNode* fast = head;
-
-        while (fast && fast->next) {
+        bool iscycle = false;
+        while(fast!=NULL && fast->next!=NULL){
             slow = slow->next;
             fast = fast->next->next;
-
-            if (slow == fast) break;
+            if(fast==slow){
+            iscycle = true;
+            break;
+            }
         }
-
-        if (!fast || !fast->next) return nullptr;
-
-        fast = head;
-        while (fast != slow) {
-            fast = fast->next;
+        
+        // int pos = 0;
+        if(iscycle == true){
+        slow = head;
+        while(slow!=fast){
             slow = slow->next;
+            fast = fast->next;
         }
-
-        return slow;        
+        return slow;
+        }
+    return NULL;
     }
 };
-*/
