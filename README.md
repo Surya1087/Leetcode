@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Surya1087/Leetcode/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Surya1087/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1122-relative-sort-array](https://github.com/Surya1087/Leetcode/tree/master/1122-relative-sort-array) |
+| [1200-minimum-absolute-difference](https://github.com/Surya1087/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1306-jump-game-iii](https://github.com/Surya1087/Leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Surya1087/Leetcode/tree/master/1340-jump-game-v) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Surya1087/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Surya1087/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/Surya1087/Leetcode/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/Surya1087/Leetcode/tree/master/1122-relative-sort-array) |
+| [1200-minimum-absolute-difference](https://github.com/Surya1087/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/Surya1087/Leetcode/tree/master/1340-jump-game-v) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Surya1087/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
