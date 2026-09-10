@@ -597,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Surya1087/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Surya1087/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1306-jump-game-iii](https://github.com/Surya1087/Leetcode/tree/master/1306-jump-game-iii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surya1087/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Surya1087/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Tree
 |  |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Surya1087/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Surya1087/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Surya1087/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surya1087/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Surya1087/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Surya1087/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Surya1087/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Surya1087/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surya1087/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Radix Sort
 |  |
 | ------- |
