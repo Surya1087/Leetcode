@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Surya1087/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Surya1087/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Surya1087/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Surya1087/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Surya1087/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Surya1087/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Surya1087/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0593-valid-square](https://github.com/Surya1087/Leetcode/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/Surya1087/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Surya1087/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Binary Indexed Tree
 |  |
 | ------- |
