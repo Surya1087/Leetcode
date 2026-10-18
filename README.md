@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Surya1087/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Surya1087/Leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Surya1087/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Surya1087/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Surya1087/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Surya1087/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Surya1087/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/Surya1087/Leetcode/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/Surya1087/Leetcode/tree/master/0912-sort-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Surya1087/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Surya1087/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Surya1087/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Surya1087/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Surya1087/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1340-jump-game-v](https://github.com/Surya1087/Leetcode/tree/master/1340-jump-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Surya1087/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Surya1087/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/Surya1087/Leetcode/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Surya1087/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Surya1087/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Surya1087/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Surya1087/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Surya1087/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Surya1087/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Surya1087/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Surya1087/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -575,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Surya1087/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Surya1087/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Surya1087/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sliding Window
 |  |
@@ -628,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Surya1087/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Surya1087/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Surya1087/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Surya1087/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Surya1087/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surya1087/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Surya1087/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -637,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Surya1087/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Surya1087/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Surya1087/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Surya1087/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Surya1087/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surya1087/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Radix Sort
@@ -659,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Surya1087/Leetcode/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Surya1087/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Surya1087/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Enumeration
 |  |
@@ -680,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Surya1087/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Surya1087/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Geometry
 |  |
 | ------- |
@@ -728,4 +737,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Surya1087/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Surya1087/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Surya1087/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Surya1087/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Surya1087/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
