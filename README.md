@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Surya1087/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Surya1087/Leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Surya1087/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Surya1087/Leetcode/tree/master/0415-add-strings) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Surya1087/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Surya1087/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Surya1087/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Surya1087/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Surya1087/Leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Surya1087/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Surya1087/Leetcode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Surya1087/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/Surya1087/Leetcode/tree/master/0468-validate-ip-address) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Surya1087/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Surya1087/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Surya1087/Leetcode/tree/master/0204-count-primes) |
+| [0412-fizz-buzz](https://github.com/Surya1087/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Surya1087/Leetcode/tree/master/0415-add-strings) |
 | [0593-valid-square](https://github.com/Surya1087/Leetcode/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/Surya1087/Leetcode/tree/master/0836-rectangle-overlap) |
